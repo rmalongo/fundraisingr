@@ -1,0 +1,16 @@
+Package: fundraisingr
+Type: Package
+Title: Calculates College Fundraising Metrics
+Version: 0.1.0
+Authors@R: c(
+    person("Majerus", "Rich", email = "rmajerus@colby.edu", role = "aut"),
+    person("Malongo", "Robert", email = "rmalongo@colby.edu", role = c("aut", "cre")))
+Description: Package to calculate fiscal year and other fundraising metrics for Colby Collge
+Imports:
+    dplyr,
+    lubridate
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+URL: http://github.com/rmalongo/fundraisingr
