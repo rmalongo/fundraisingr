@@ -14,4 +14,4 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 URL: http://github.com/rmalongo/fundraisingr
-
+BugReports: http://github.com/rmalongo/fundraisingr/issues
