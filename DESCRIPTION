@@ -9,7 +9,8 @@ Description: Package to calculate fiscal year and other fundraising metrics for 
 Imports:
     dplyr,
     geosphere,
-    lubridate
+    lubridate,
+    zipcode
 License: MIT
 Encoding: UTF-8
 LazyData: true
