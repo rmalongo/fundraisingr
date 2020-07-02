@@ -1,1 +1,4 @@
 # fundraisingr
+# Scope:
+# Vision:
+# Impact:
